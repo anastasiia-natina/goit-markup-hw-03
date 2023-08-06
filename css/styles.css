@@ -273,12 +273,6 @@ img {
   letter-spacing: 0.03em;
   color: var(--accent-color);
 }
-.footer-page {
-  display: flex;
-  flex-direction: column;
-  column-gap: 18px;
-  align-items: flex-start;
-}
 .logo-color-f {
   color: #f4f4fd;
 }
